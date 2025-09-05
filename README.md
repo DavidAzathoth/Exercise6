@@ -1,0 +1,2 @@
+Karl Steinar
+Davíd Örvar
