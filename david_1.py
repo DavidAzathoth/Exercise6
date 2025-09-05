@@ -4,3 +4,6 @@ def intput(a):
 x=input()
 
 print(x/2)
+
+
+print("jajaje")
